@@ -2,7 +2,7 @@
 
 A comprehensive collection of JavaScript concepts, including variables, functions, loops, error handling, and more.
 
-Created by: Timilehin iseyemi
+Created by: **Timmy** 🚀
 
 ## Contents:
 - Variables, Data Types, and Operators
