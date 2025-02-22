@@ -1,3 +1,17 @@
+// ==========================================
+// 📝 JavaScript Reference Guide
+// Created by Timmy 🚀
+// ==========================================
+//  TTTTT  III  M   M  M   M  Y   Y
+//    T    I   MM MM  MM MM   Y Y
+//    T    I   M M M  M M M    Y
+//    T    I   M   M  M   M    Y
+//    T   III  M   M  M   M    Y
+// ==========================================
+
+console.log("Welcome to the JavaScript Reference Guide, created by Timmy 🚀");
+
+
 // 🎯 **Variables**
 let place = 'first';                   // ...... variableE
 
